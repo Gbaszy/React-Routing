@@ -1,5 +1,11 @@
 .App {
-  text-align: center;
+  text-align: left;
+  background-color:white;
+  display: grid;
+  grid-template-rows: 100px auto 150px;
+  min-height: 100vh;
+  padding: 5px 20px;
+  
 }
 
 .App-logo {
